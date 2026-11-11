@@ -1,5 +1,5 @@
 # project1-sequence-analysis
-This is the code that I have created for my first assessed coding project for the "Introduction to programming for Life Sciences" module, with the intention to .
+This is the code that I have created for my first assessed coding project for the "Introduction to programming for Life Sciences" module, with the intention to find mutations in NGS(next generation sequencing) reads.
 
 To open the file, click on the most recent notebook (as of 10/11/2026 it is the notebook under the notebooks folder ending in (5)). It is important to note that in order to use every function you will have to press "run all" near the top of the UI. This is because some functions utilise other functions that have been defined in previous cells. 
 
